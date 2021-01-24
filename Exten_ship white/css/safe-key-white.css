@@ -1,0 +1,49 @@
+.header-one h1 {
+    font-family: 'Monoton', cursive;
+    font-size: 40px;
+    color: #bc6ff1;
+    margin-top: 50px;
+    margin-left: 30px;
+}
+
+.para {
+    margin-left: 40px;
+    color: #a685e2;
+    font-size: 20px;
+}
+
+.aero {
+    border: #bc6ff1 solid;
+    text-decoration: none;
+    margin-top: 40px;
+    color: #a685e2;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+    padding-left: 10px;
+    margin-left: 10px;
+    margin-left: 40px;
+}
+
+.aero:hover {
+    color: #fff;
+    background-color: #a685e2;
+}
+
+.airo {
+    border: #bc6ff1 solid;
+    text-decoration: none;
+    margin-top: 40px;
+    color: #a685e2;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+    padding-left: 10px;
+    margin-left: 10px;
+    margin-left: 40px;
+}
+
+.airo:hover {
+    color: #fff;
+    background-color: #a685e2;
+}

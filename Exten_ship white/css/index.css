@@ -1,0 +1,93 @@
+
+/* css for Exten ship
+.co */
+
+#bracket_bold {
+    color: #a685e2;
+}
+
+#element-one:hover {
+    color: #a685e2;
+  }
+
+  #go-left {
+      margin-left: 80%;
+      position: absolute;
+      margin-top: -13px;
+  }
+
+  .header h1 {
+    margin-top: 50px;
+    margin-left: 30px;
+    font-family: 'Monoton', cursive;
+    color: #bc6ff1;
+}
+
+
+.get_one {
+  text-decoration: none;
+  color: #000;
+  border: #6155a6 solid;
+  margin-left: 35px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-right: 20px;
+  padding-left: 20px;
+  font: size 25px;
+}
+
+  .get_one:hover {
+
+      color: #000;
+      background-color: #a685e2;
+}
+.impo_one {
+  text-align: center;
+  color: #000;
+  font-family: 'Montserrat Alternates', sans-serif;
+}
+
+.impo_one hr {
+  height: 6px;
+  width: 20%;
+  margin-left: 40%;
+  background-color: #a685e2;
+}
+
+.node h2 {
+  margin-left: 40px;
+  border: #da9ff9 solid;
+  padding-left: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-radius: 50px;
+  margin-right: 77%;
+  color: #000;
+}
+
+.node p {
+  margin-left: 40px;
+  color: #a685e2;
+}
+
+.contact hr {
+  height: 6px;
+  width: 20%;
+  margin-left: 40%;
+  background-color: #a685e2;
+}
+.contact p {
+  margin-left: 40px;
+  font-size: 20px;
+  color: #da9ff9;
+}
+.contact h1 {
+  color: #000;
+  font-size: 40px;
+  font-family: 'Montserrat Alternates', sans-serif;
+  text-align: center;
+}
+
+  /* font-family: 'Monoton', cursive;
+  font-family: 'Montserrat', sans-serif;
+  font-family: 'Montserrat Alternates', sans-serif; */

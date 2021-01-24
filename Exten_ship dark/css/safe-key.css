@@ -1,0 +1,32 @@
+body {
+    background-color: #373a40;
+}
+.header-one h1 {
+    font-family: 'Monoton', cursive;
+    font-size: 40px;
+    color: #bc6ff1;
+    margin-top: 50px;
+    margin-left: 30px;
+}
+.header-one p {
+    margin-left: 40px;
+    color: #a685e2;
+    font-size: 20px;
+}
+
+.header-one a {
+    border: #bc6ff1 solid;
+    text-decoration: none;
+    margin-top: 40px;
+    color: #a685e2;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+    padding-left: 10px;
+    margin-left: 10px;
+}
+
+.header-one a:hover {
+    color: #fff;
+    background-color: #a685e2;
+}
